@@ -1,0 +1,30 @@
+{
+  "name": "furkot-map-style",
+  "version": "0.0.0",
+  "description": "Map styles used by Furkot trip planner.",
+  "author": {
+    "name": "Natalia Kowalczyk",
+    "email": "melitele@furkot.com",
+    "url": "https://melitele.me"
+  },
+  "repository": "furkot/furkot-map-style",
+  "license": "MIT",
+  "keywords": [
+    "furkot-map-style",
+    "furkot-map-style",
+    "furkot"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.10.1",
+    "mocha": "^6.0.2",
+    "should": "^13.2.3"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
