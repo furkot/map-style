@@ -69,7 +69,7 @@
       "id": "landuse_residential",
       "maxzoom": 8,
       "paint": {
-        "fill-color": "rgba(233, 227, 210, 0.80)"
+        "fill-color": "rgba(233, 227, 210, 0.8)"
       },
       "source": "tiles",
       "source-layer": "landuse",
@@ -317,7 +317,7 @@
       "minzoom": 9,
       "paint": {
         "text-color": "rgba(93, 96, 190, 1)",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255, 255, 255, 0.7)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4271,7 +4271,7 @@
       "minzoom": 0,
       "paint": {
         "text-color": "rgba(93, 96, 190, 1)",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255, 255, 255, 0.7)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4306,7 +4306,7 @@
       "minzoom": 2,
       "paint": {
         "text-color": "rgba(76, 125, 173, 1)",
-        "text-halo-color": "rgba(255,255,255,0)",
+        "text-halo-color": "rgba(255, 255, 255, 0)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4340,7 +4340,7 @@
       "minzoom": 0,
       "paint": {
         "text-color": "rgba(76, 125, 173, 1)",
-        "text-halo-color": "rgba(255,255,255,0)",
+        "text-halo-color": "rgba(255, 255, 255, 0)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4387,7 +4387,7 @@
       "paint": {
         "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4439,7 +4439,7 @@
       "paint": {
         "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4494,7 +4494,7 @@
       "paint": {
         "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4530,7 +4530,7 @@
       "paint": {
         "text-color": "rgba(99, 148, 224, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4582,7 +4582,7 @@
       "paint": {
         "text-color": "rgba(99, 148, 224, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4714,7 +4714,7 @@
       "paint": {
         "text-color": "rgba(119, 102, 85, 1)",
         "text-halo-blur": 0.3,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 0.8
       },
       "source": "tiles",
@@ -4935,7 +4935,7 @@
       "paint": {
         "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -4979,7 +4979,7 @@
       "minzoom": 6,
       "paint": {
         "text-color": "rgba(66, 62, 62, 1)",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 1.2
       },
       "source": "tiles",
@@ -5017,7 +5017,7 @@
       "minzoom": 6,
       "paint": {
         "text-color": "rgba(51, 51, 51, 1)",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 1.2
       },
       "source": "tiles",
@@ -5069,7 +5069,7 @@
       "minzoom": 6,
       "paint": {
         "text-color": "rgba(51, 51, 51, 1)",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 1.2
       },
       "source": "tiles",
@@ -5123,7 +5123,7 @@
       "minzoom": 5,
       "paint": {
         "text-color": "rgba(51, 51, 51, 1)",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 1.2
       },
       "source": "tiles",
@@ -5169,7 +5169,7 @@
       "paint": {
         "text-color": "rgba(51, 51, 68, 1)",
         "text-halo-blur": 1,
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 0.8
       },
       "source": "tiles",
@@ -5220,7 +5220,7 @@
       "paint": {
         "text-color": "rgba(51, 51, 68, 1)",
         "text-halo-blur": 1,
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 0.8
       },
       "source": "tiles",
@@ -5271,7 +5271,7 @@
       "paint": {
         "text-color": "rgba(51, 51, 68, 1)",
         "text-halo-blur": 1,
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 0.8
       },
       "source": "tiles",
@@ -5322,7 +5322,7 @@
       "paint": {
         "text-color": "rgba(51, 51, 68, 1)",
         "text-halo-blur": 1,
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255, 255, 255, 0.8)",
         "text-halo-width": 0.8
       },
       "source": "tiles",
@@ -5361,7 +5361,7 @@
       "maxzoom": 7,
       "paint": {
         "text-color": "rgba(74, 72, 66, 1)",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255, 255, 255, 0.7)",
         "text-halo-width": 0.8
       },
       "source": "tiles",
@@ -5388,7 +5388,7 @@
       "maxzoom": 1,
       "paint": {
         "text-color": "rgba(102, 51, 51, 1)",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255, 255, 255, 0.7)",
         "text-halo-width": 1
       },
       "source": "tiles",
@@ -5409,7 +5409,7 @@
       "paint": {
         "text-color": "rgba(102, 102, 102, 1)",
         "text-halo-blur": 0.5,
-        "text-halo-color": "#ffffff",
+        "text-halo-color": "rgba(255, 255, 255, 1)",
         "text-halo-width": 1
       },
       "source": "tiles",
