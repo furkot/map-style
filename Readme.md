@@ -25,6 +25,28 @@ To validate any map style file:
 $ node lib/validate map-style.json
 ```
 
+## Normalize
+
+If the validation fails, fix inconsistencies in map files automatically:
+
+```sh
+make normalize
+```
+
+Normalized files are placed in the `reports` folder. You should run validation again on normalized files as not all inconsistencies can be fixed automatically.
+
+To normalize any map style file:
+
+```sh
+$ node lib/normalize map-style.json
+```
+
+To create a separate normalized file and leave the source file intact pass it as a first parameter:
+
+```sh
+$ node lib/normalize normalized-map-style.json map-style.json
+```
+
 ## License
 
 MIT © [Natalia Kowalczyk](https://melitele.me)
