@@ -47,6 +47,20 @@ To create a separate normalized file and leave the source file intact pass it as
 $ node lib/normalize normalized-map-style.json map-style.json
 ```
 
+## Merge
+
+Normalized files from the `reports` folder can be merged back to the respective map style files:
+
+```sh
+make merge
+```
+
+To merge a map style file with another:
+
+```sh
+$ node lib/merge target-map-style.json map-style.json
+```
+
 ## License
 
 MIT © [Natalia Kowalczyk](https://melitele.me)
