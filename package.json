@@ -14,7 +14,9 @@
     "furkot-map-style",
     "furkot"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "csscolorparser": "^1.0.3"
+  },
   "devDependencies": {
     "jshint": "^2.10.1",
     "mocha": "^6.0.2",
